@@ -3,7 +3,7 @@
 A simplified Eclipse RCP-based AUTOSAR tooling application designed to demonstrate how an AUTOSAR-oriented desktop application can import ARXML files, display ECU configuration data in a hierarchical tree, validate configuration elements, show properties, and generate C source and header files from the imported configuration.
 This project is being developed as a learning and portfolio project to understand **Java, Eclipse RCP, Eclipse e4, SWT, JFace, EMF, XML/ARXML processing, validation, and code generation** in an AUTOSAR tooling environment.
 
----
+
 
 ## Project Overview
 
