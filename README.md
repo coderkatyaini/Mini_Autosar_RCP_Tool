@@ -5,6 +5,7 @@ This project is being developed as a learning and portfolio project to understan
 
 
 
+
 ## Project Overview
 
 **Mini_Autosar_RCP_Tool** is a lightweight implementation inspired by professional AUTOSAR configuration and development tools.
